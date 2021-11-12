@@ -132,6 +132,34 @@ p {
     padding: 3% 2%;
 }
 
+/* Call To Action Section */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5rem 0 2.5rem;
+}
+
+#cta h3 {
+    color: #fff;
+    font-size: 3.5rem;
+    padding: 0 15%;
+    line-height: 1.5;
+}
+
+/* Footer Section */
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 7% 0 0 0;
+    line-height: 3;
+}
+
+.footer-icons {
+    margin: 10px;
+}
+
 @media (max-width: 1028px) {
     #title {
         text-align: center;
@@ -143,3 +171,4 @@ p {
         transform: rotate(0);
     }
 }
+
