@@ -170,5 +170,9 @@ p {
         position: static;
         transform: rotate(0);
     }
+
+    #footer p {
+        font-size: small;
+    }
 }
 
