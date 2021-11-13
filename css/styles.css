@@ -31,6 +31,17 @@ p {
     padding: 3% 15% 7%;
 }
 
+/* Sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -100,7 +111,6 @@ p {
 
 #testimonials {
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-text {
@@ -146,12 +156,10 @@ p {
 /* Call To Action Section */
 
 #cta {
-    background-color: #ff4c68;
     padding: 5rem 0 2.5rem;
 }
 
 .cta-heading {
-    color: #fff;
     font-size: 3.5rem;
     padding: 0 15%;
     line-height: 1.5;
@@ -160,7 +168,6 @@ p {
 /* Footer Section */
 
 #footer {
-    background-color: #fff;
     padding: 7% 0 0 0;
     line-height: 3;
 }
